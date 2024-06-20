@@ -11,5 +11,10 @@ public class HelloWorld {
 		obj.welcomeMessage();
 
 	}
+	
+	public void add(int a, int b) {
+		int result = a + b;
+		System.out.println("sum of two numbers = " + result);
+	 }
 
 }
