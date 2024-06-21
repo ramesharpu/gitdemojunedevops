@@ -23,4 +23,10 @@ public class HelloWorld {
 	
 	//cc1
 	//cc2
+	
+	//this codes is added in b1 branch
+	public void sub(int a, int b) {
+		int result = a - b;
+		System.out.println("difference of two numbers = " + result);
+	 }
 }
