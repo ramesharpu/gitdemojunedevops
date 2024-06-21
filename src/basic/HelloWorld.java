@@ -2,7 +2,8 @@ package basic;
 
 public class HelloWorld {
 	
-	public void welcomeMessage() {//from dev2
+
+	public void welcomeMessage() {//code changes from dev1 + //from dev2
 		System.out.println("Hello Everyone, Welcome to DevOps Training!!!");
 	}
 
